@@ -34,7 +34,7 @@ Eesmärk: saame kasutajaga katsetada, kas õpetaja oskab prototüübis luua rüh
 
 ## Projekti materjalid
 
-- [Vajaduse kirjeldus ja kasutuslood](docs/kavand.md)
+- [Taustauuring](docs/kavand.md)
 - [Persoona, stsenaarium ja mudel](docs/kasutaja.md)
 - [Katsetamine ja tagasiside](docs/testimine.md)
 - [Lõiming ja hindamine](docs/loiming.md)
