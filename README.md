@@ -35,7 +35,7 @@ Eesmärk: saame kasutajaga katsetada, kas õpetaja oskab prototüübis luua rüh
 ## Projekti materjalid
 
 - [Taustauuring](Materjalid/taustauuring.md)
-- [Persoona, stsenaarium ja mudel](docs/kasutaja.md)
+- [Persoona, stsenaarium ja mudel](Materjalid/Rühmatöö õpikeskkonna persoonad.pdf)
 - [Katsetamine ja tagasiside](docs/testimine.md)
 - [Lõiming ja hindamine](docs/loiming.md)
 - Figma prototüüp: [lisage link]
