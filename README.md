@@ -20,18 +20,16 @@ Selles etapis ei arenda päris kasutajakontosid ega andmete salvestamist.
 
 ## Rühm ja rollid
 
-- Astrid – [kokkulepitud roll ja vastutus]
-- Diana – [kokkulepitud roll ja vastutus]
-- Jaanus – [kokkulepitud roll ja vastutus]
-- Helerys – [kokkulepitud roll ja vastutus]
+- Astrid – meeskonnaliige
+- Jaanus – meeskonnaliige
+- Helerys – projektijuht
 
 ## Esimene sprint
 
 Eesmärk: saame kasutajaga katsetada, kas õpetaja oskab prototüübis luua rühmatöö, määrata rollid ja leida ülesannete seisu.
 
-- Sprindi algus: [kuupäev]
-- Sprindi lõpp: [kuupäev]
-- Järgmine kohtumine: [aeg ja koht]
+- Sprindi algus: 29.10.2026
+- Sprindi lõpp: 5.12.2026
 - Tulem: katsetatav kasutusteekond, testimismärkmed ja parandusotsus.
 
 ## Projekti materjalid
