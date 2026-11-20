@@ -34,7 +34,7 @@ Eesmärk: saame kasutajaga katsetada, kas õpetaja oskab prototüübis luua rüh
 
 ## Projekti materjalid
 
-- [Taustauuring](https://github.com/astridmp-mp/ryhmarada/blob/main/Materjalid/taustauuring.md)
+- [Taustauuring](Materjalid/taustauuring.md)
 - [Persoona, stsenaarium ja mudel](docs/kasutaja.md)
 - [Katsetamine ja tagasiside](docs/testimine.md)
 - [Lõiming ja hindamine](docs/loiming.md)
